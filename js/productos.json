@@ -1,0 +1,211 @@
+[
+    {
+        "id": "consola-01",
+        "descuento":"Descuento 15%",
+        "titulo": "Consola de Juegos Arcade Retro Gadnic GM2",
+        "imagen": "./img/consolas/01.webp",
+        "categoria": {
+            "nombre": "Consolas",
+            "id": "consolas"
+        },
+        "precio": 25000
+    },
+    {
+        "id": "consola-02",
+        "descuento":"Descuento 10%",
+        "titulo": "Consola de juegos arcade Retro Gadnic GM5",
+        "imagen": "./img/consolas/02.webp",
+        "categoria": {
+            "nombre": "Consolas",
+            "id": "consolas"
+        },
+        "precio": 30000
+    },
+    {
+        "id": "consola-03",
+        "descuento":"Descuento 20%",
+        "titulo": "Consola game stick +2 joystick USB",
+        "imagen": "./img/consolas/03.webp",
+        "categoria": {
+            "nombre": "Consolas",
+            "id": "consolas"
+        },
+        "precio": 35000
+    },
+    {
+        "id": "consola-04",
+        "descuento":"Descuento 10%",
+        "titulo": "Consola De Juegos Gadnic Portatil 764 Juegos",
+        "imagen": "./img/consolas/04.webp",
+        "categoria": {
+            "nombre": "Consolas",
+            "id": "consolas"
+        },
+        "precio": 40000
+    },
+    {
+        "id": "consola-05",
+        "descuento":"Descuento 5%",
+        "titulo": "Consola de Juegos Retro Gadnic GMB4 8 Bits",
+        "imagen": "./img/consolas/05.webp",
+        "categoria": {
+            "nombre": "Consolas",
+            "id": "consolas"
+        },
+        "precio": 28000
+    },
+    {
+        "id": "minijuego-01",
+        "descuento":"Descuento 20%",
+        "titulo": "Mini Game Player Consola Retro Tetris",
+        "imagen": "./img/minijuegos/01.webp",
+        "categoria": {
+            "nombre": "Minijuegos",
+            "id": "minijuegos"
+        },
+        "precio": 45000
+    },
+    {
+        "id": "minijuego-02",
+        "descuento":"Descuento 25%",
+        "titulo": "Mini Juego Retro Tiny Arcade Pac-man",
+        "imagen": "./img/minijuegos/02.webp",
+        "categoria": {
+            "nombre": "Minijuegos",
+            "id": "minijuegos"
+        },
+        "precio": 43200
+    },
+    {
+        "id": "minijuego-03",
+        "descuento":"Descuento 15%",
+        "titulo": "Mini Juego Retro Tiny Arcade Space Invaders",
+        "imagen": "./img/minijuegos/03.webp",
+        "categoria": {
+            "nombre": "Minijuegos",
+            "id": "minijuegos"
+        },
+        "precio": 46800
+    },
+    {
+        "id": "minijuego-04",
+        "descuento":"Descuento 10%",
+        "titulo": "Mini Consola My Arcade Micro Player Pro Pac-man",
+        "imagen": "./img/minijuegos/04.webp",
+        "categoria": {
+            "nombre": "Minijuegos",
+            "id": "minijuegos"
+        },
+        "precio": 40000
+    },
+    {
+        "id": "minijuego-05",
+        "descuento":"Descuento 25%",
+        "titulo": "Consola Retro Portatil Brick Game",
+        "imagen": "./img/minijuegos/05.webp",
+        "categoria": {
+            "nombre": "Minijuegos",
+            "id": "minijuegos"
+        },
+        "precio": 6800
+    },
+    {
+        "id": "minijuego-06",
+        "descuento":"Descuento 5%",
+        "titulo": "Mini Consola My Acarde Portatil Pico Player Tetris",
+        "imagen": "./img/minijuegos/06.webp",
+        "categoria": {
+            "nombre": "Minijuegos",
+            "id": "minijuegos"
+        },
+        "precio": 15300
+    },
+    {
+        "id": "minijuego-07",
+        "descuento":"Descuento 10%",
+        "titulo": "Consola Brick Game",
+        "imagen": "./img/minijuegos/07.webp",
+        "categoria": {
+            "nombre": "Minijuegos",
+            "id": "minijuegos"
+        },
+        "precio": 3960
+    },
+    {
+        "id": "minijuego-08",
+        "descuento":"Descuento 15%",
+        "titulo": "Llavero Consola Videojuegos Mini Tetris Retro",
+        "imagen": "./img/minijuegos/08.webp",
+        "categoria": {
+            "nombre": "Minijuegos",
+            "id": "minijuegos"
+        },
+        "precio": 3200
+    },
+    {
+        "id": "minijuego-09",
+        "descuento":"Descuento 20%",
+        "titulo": "Mascota virtual retro: cuida, juega y ama",
+        "imagen": "./img/minijuegos/09.webp",
+        "categoria": {
+            "nombre": "Minijuegos",
+            "id": "minijuegos"
+        },
+        "precio": 2900
+    },
+    {
+        "id": "juego-01",
+        "descuento":"Descuento 15%",
+        "titulo": "D-ZERO Carrera de autos",
+        "imagen": "./img/juegos/01.webp",
+        "categoria": {
+            "nombre": "Juegos",
+            "id": "juegos"
+        },
+        "precio": 19800
+    },
+    {
+        "id": "juego-02",
+        "descuento":"Descuento 20%",
+        "titulo": "Virtua Striker 2 Juego de futbol",
+        "imagen": "./img/juegos/02.webp",
+        "categoria": {
+            "nombre": "Juegos",
+            "id": "juegos"
+        },
+        "precio": 12500
+    },
+    {
+        "id": "juego-03",
+        "descuento":"Descuento 10%",
+        "titulo": "500 Juegos Arcade Retro",
+        "imagen": "./img/juegos/03.webp",
+        "categoria": {
+            "nombre": "Juegos",
+            "id": "juegos"
+        },
+        "precio": 6300
+    },
+    {
+        "id": "juego-04",
+        "descuento":"Descuento 15%",
+        "titulo": "Virtua Striker 3 Juego de futbol",
+        "imagen": "./img/juegos/04.webp",
+        "categoria": {
+            "nombre": "Juegos",
+            "id": "juegos"
+        },
+        "precio": 15200
+    },
+    {
+        "id": "juego-05",
+        "descuento":"Descuento 20%",
+        "titulo": "1000 juegos arcade retro",
+        "imagen": "./img/juegos/05.webp",
+        "categoria": {
+            "nombre": "Juegos",
+            "id": "juegos"
+        },
+        "precio": 12700
+    }
+]
