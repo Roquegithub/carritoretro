@@ -36,6 +36,13 @@ img{
     height: 10rem;
     width: 130rem;
 }
+
+.producto:hover{
+    transform: scale(1.02); 
+    border: solid 3px yellowgreen;
+    border-radius: 1.15rem;
+}
+
 .wrapper {
     display: grid;
     grid-template-columns: 1fr 4fr;
@@ -213,7 +220,11 @@ main {
     flex-direction: column;
     gap: 1rem;
 }
-
+.carrito-producto:hover{
+    transform: scale(1.02); 
+    border: solid 3px yellowgreen;
+    border-radius: 1.15rem;
+}
 .carrito-producto {
     display: flex;
     justify-content: space-between;
